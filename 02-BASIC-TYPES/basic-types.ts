@@ -19,7 +19,7 @@ const isBirthday_ERROR = 1;
 const age_ERROR = "40";
 const userName_ERROR = "John";
 
-if (isBirthday) {
+if (isBirthday_ERROR) {
   console.log(`Congrats ${userName_ERROR}, age: ${age_ERROR + 1}`);
 }
 
